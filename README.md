@@ -29,7 +29,7 @@ PLC implementation of a heat exchanger temperature control loop using PI and Smi
 ### 2. FBG-Based Water Level Detection System
 Development of a Fiber Bragg Grating (FBG)-based water level measurement system using optical wavelength variations.
 
-**Tools:** Fiber Bragg Grating Sensors, Optical Interrogator, MATLAB
+**Tools:** Fiber Bragg Grating Sensors, Optical Interrogator, 
 
 ### 3. Distribution Line Fault Detection
 IoT-based electrical distribution line fault detection and location system.
