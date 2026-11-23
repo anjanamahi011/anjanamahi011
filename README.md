@@ -1,83 +1,72 @@
 # Hi, I'm Anjana Mahendran 👋
 
-### Instrumentation & Control Engineer | Process Automation | Control Systems
+Instrumentation & Control Engineer
 
-M.Tech graduate in Instrumentation and Control Engineering with a B.Tech in Electrical and Electronics Engineering.
+Process Instrumentation | Control Systems | Industrial Automation
 
-Interested in industrial instrumentation, process control, automation systems, measurement technologies and electronics.
+M.Tech graduate in Instrumentation and Control Engineering with a B.Tech in Electrical and Electronics Engineering. Interested in process instrumentation, industrial automation, control systems and measurement technologies.
 
-I enjoy working on engineering projects involving control system design, PLC implementation, sensor-based measurement and system validation.
+Technical Skills
 
----
+Category
 
-## 🔧 Technical Skills
+Skills
 
-**Instrumentation & Measurement**
+Instrumentation
 
-- Sensors and Transmitters
-- Calibration and Signal Conditioning
-- Measurement Systems
+Sensors, Transmitters, Calibration, Signal Conditioning
 
-**Control Systems & Automation**
+Control Systems
 
-- PID / PI Control
-- Smith Predictor
-- PLC Programming
-- CODESYS
-- DCS Fundamentals
+PID / PI Control, Smith Predictor, System Identification
 
-**Programming & Simulation**
+Automation
 
-- MATLAB / Simulink
-- C / C++
-- LabVIEW
-- Proteus
+PLC, CODESYS, DCS Fundamentals
 
-**Engineering & Testing**
+Programming
 
-- System Testing and Validation
-- Sensor Interfacing
-- Data Acquisition
-- Troubleshooting
+MATLAB, C, C++
 
----
+Simulation & Testing
 
-## 🚀 Featured Projects
+Simulink, LabVIEW, Proteus, System Validation
 
-### 1. Heat Exchanger Temperature Control
+Featured Projects
 
-PLC implementation of a heat exchanger temperature control loop using PI and Smith Predictor controllers, with alarms, safety interlock and operator interface.
+1. Heat Exchanger Temperature Control
 
-### 2. FBG-Based Water Level Detection System
+PLC implementation of a heat exchanger temperature control loop using PI and Smith Predictor controllers, with alarm logic, safety interlock and an operator interface.
 
-Development of a fiber Bragg grating-based sensing system for water level measurement using optical wavelength variations.
+Tools: CODESYS, MATLAB, Simulink
 
-### 3. Distribution Line Fault Detection
+2. FBG-Based Water Level Detection System
+
+Development of a Fiber Bragg Grating (FBG)-based water level measurement system using optical wavelength variations.
+
+Tools: Fiber Bragg Grating Sensors, Optical Interrogator, MATLAB
+
+3. Distribution Line Fault Detection
 
 IoT-based electrical distribution line fault detection and location system.
 
-### 4. Digital Frequency Counter
+4. Digital Frequency Counter
 
 Design and implementation of a digital frequency measurement system.
 
----
+Education
 
-## 🎓 Education
-
-**M.Tech – Instrumentation & Control Engineering**
+M.Tech – Instrumentation & Control Engineering
 Cochin University of Science and Technology (CUSAT) | 2024–2026
 
-**B.Tech – Electrical & Electronics Engineering**
+B.Tech – Electrical & Electronics Engineering
 KMEA Engineering College | 2019–2023
 
----
+Certifications
 
-## 📜 Certifications
+NPTEL – Industrial Safety Engineering (Elite), IIT Kharagpur
 
-- NPTEL – Industrial Safety Engineering (Elite)
-- NPTEL – Internet of Things (Elite)
-
----
+NPTEL – Internet of Things (Elite)
 
 ## 🤝 Connect With Me
 
