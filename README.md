@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Anjana Mahendran 👋
 
-<!--
-**anjanamahi011/anjanamahi011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Instrumentation & Control Engineer | Process Automation | Control Systems
 
-Here are some ideas to get you started:
+M.Tech graduate in Instrumentation and Control Engineering with a B.Tech in Electrical and Electronics Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in industrial instrumentation, process control, automation systems, measurement technologies and electronics.
+
+I enjoy working on engineering projects involving control system design, PLC implementation, sensor-based measurement and system validation.
+
+---
+
+## 🔧 Technical Skills
+
+**Instrumentation & Measurement**
+
+- Sensors and Transmitters
+- Calibration and Signal Conditioning
+- Measurement Systems
+
+**Control Systems & Automation**
+
+- PID / PI Control
+- Smith Predictor
+- PLC Programming
+- CODESYS
+- DCS Fundamentals
+
+**Programming & Simulation**
+
+- MATLAB / Simulink
+- C / C++
+- LabVIEW
+- Proteus
+
+**Engineering & Testing**
+
+- System Testing and Validation
+- Sensor Interfacing
+- Data Acquisition
+- Troubleshooting
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Heat Exchanger Temperature Control
+
+PLC implementation of a heat exchanger temperature control loop using PI and Smith Predictor controllers, with alarms, safety interlock and operator interface.
+
+### 2. FBG-Based Water Level Detection System
+
+Development of a fiber Bragg grating-based sensing system for water level measurement using optical wavelength variations.
+
+### 3. Distribution Line Fault Detection
+
+IoT-based electrical distribution line fault detection and location system.
+
+### 4. Digital Frequency Counter
+
+Design and implementation of a digital frequency measurement system.
+
+---
+
+## 🎓 Education
+
+**M.Tech – Instrumentation & Control Engineering**
+Cochin University of Science and Technology (CUSAT) | 2024–2026
+
+**B.Tech – Electrical & Electronics Engineering**
+KMEA Engineering College | 2019–2023
+
+---
+
+## 📜 Certifications
+
+- NPTEL – Industrial Safety Engineering (Elite)
+- NPTEL – Internet of Things (Elite)
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [https://github.com/anjanamahi011](https://github.com/anjanamahi011)
+- LinkedIn: [www.linkedin.com/in/anjana-mahendran-b5724b306]
+- Location: Kochi, Kerala, India
