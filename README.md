@@ -21,20 +21,31 @@ M.Tech graduate in Instrumentation and Control Engineering with a B.Tech in Elec
 
 ## Featured Projects
 
-### 1. Heat Exchanger Temperature Control
-PLC implementation of a heat exchanger temperature control loop using PI and Smith Predictor controllers, with alarm logic, safety interlock and an operator interface.
+### 1. Heat Exchanger Temperature Control – PLC Implementation
 
-**Tools:** CODESYS, MATLAB, Simulink
+PLC-based heat exchanger temperature control using PI and Smith Predictor controllers in CODESYS, featuring alarm management, safety interlocks and a web-based operator interface.
 
-### 2. FBG-Based Water Level Detection System
+Tools: CODESYS, PLC Programming
+
+View Project Repository
+
+### 2. Heat Exchanger Temperature Control – MATLAB Simulation
+
+MATLAB study of temperature control for a delay-dominant heat exchanger, comparing PI and Smith Predictor controllers, including system identification and robustness analysis.
+
+Tools: MATLAB, Control System Toolbox, System Identification Toolbox
+
+View Project Repository
+
+### 3. FBG-Based Water Level Detection System
 Development of a Fiber Bragg Grating (FBG)-based water level measurement system using optical wavelength variations.
 
 **Tools:** Fiber Bragg Grating Sensors, Optical Interrogator, 
 
-### 3. Distribution Line Fault Detection
+### 4. Distribution Line Fault Detection
 IoT-based electrical distribution line fault detection and location system.
 
-### 4. Digital Frequency Counter
+### 5. Digital Frequency Counter
 Design and implementation of a digital frequency measurement system.
 
 ---
