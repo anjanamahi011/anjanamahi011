@@ -40,9 +40,11 @@ MATLAB study of temperature control for a delay-dominant heat exchanger, compari
 
 ### 3. FBG-Based Water Level Detection System
 
-Development of a Fiber Bragg Grating (FBG)-based water level measurement system using optical wavelength variations.
+Development of a Fiber Bragg Grating (FBG)-based water level measurement system using optical wavelength variations. The project investigates the response of two vertically positioned FBG sensors to changes in water level.
 
-**Tools:** Fiber Bragg Grating Sensors, Optical Interrogator, In-house GUI
+Technologies: Fiber Bragg Grating Sensors, Optical Interrogator, Wavelength Measurement
+
+View Project Repository
 
 ### 4. Distribution Line Fault Detection
 
