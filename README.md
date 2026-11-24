@@ -32,7 +32,7 @@ PLC-based heat exchanger temperature control using PI and Smith Predictor contro
 
 ### 2. Heat Exchanger Temperature Control – MATLAB Simulation
 
-MATLAB study of temperature control for a delay-dominant heat exchanger, comparing PI and Smith Predictor controllers, including system identification and robustness analysis.
+MATLAB study of temperature control for a heat exchanger with transport delay, comparing PI and Smith Predictor controllers, including system identification and robustness analysis.
 
 **Tools:** MATLAB, Control System Toolbox, System Identification Toolbox
 
