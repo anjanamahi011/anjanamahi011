@@ -55,11 +55,7 @@ The project integrates sensor data and communication technologies to support fau
 
 [View Project Repository](https://github.com/anjanamahi011/Distribution-Line-Fault-Detection-IoT)
 
-### 5. Digital Frequency Counter
 
-Design and implementation of a digital frequency measurement system.
-
----
 
 ## Education
 
